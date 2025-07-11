@@ -18,8 +18,10 @@ Also, this project gave me the opportunity to explore **real-world environmental
 ## 🚀 What the Project Does
 
 ### 🔹 Inputs:
-- **Year** (e.g., 2024)
+- **Year** (between 2000 and 2100)
 - **Station ID** (e.g., 1–22)
+
+> 🔸 *Note: The model is designed to predict for a maximum of 100 years into the future (up to the year 2100), based on historical data from 2000 to 2021.*
 
 ### 🔹 Outputs:
 - Predicted pollutant levels for that station and year:
